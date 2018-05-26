@@ -1,0 +1,203 @@
+# depslib dependency file v1.0
+1490692215 source:/home/starlove/code/NBPyLinux/loginsvr/clientpeer.cpp
+	"clientpeer.h"
+	"routepeer.h"
+	"setting.h"
+	"s2stunnel.h"
+	<protocol.h>
+	<datetime.h>
+	<stacklessengine.h>
+
+1490692163 /home/starlove/code/NBPyLinux/loginsvr/clientpeer.h
+	<peer.h>
+
+1490009858 /home/starlove/code/NBPyLinux/base/peer.h
+	"network.h"
+
+1489678154 /home/starlove/code/NBPyLinux/base/network.h
+	"singleton.h"
+	"event.h"
+	"buffer.h"
+	"imcodepackager.h"
+	<netdb.h>
+
+1487437242 /home/starlove/code/NBPyLinux/base/singleton.h
+	"base.h"
+	<memory>
+
+1488290581 /home/starlove/code/NBPyLinux/base/base.h
+	<map>
+	<vector>
+	<string>
+	<unistd.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<fcntl.h>
+	<unistd.h>
+	<stdio.h>
+	<errno.h>
+	<string.h>
+	<stdlib.h>
+	<sys/epoll.h>
+	<stddef.h>
+	<sys/event.h>
+	<unordered_map>
+
+1490011836 /home/starlove/code/NBPyLinux/base/event.h
+	"singleton.h"
+	"allocator.h"
+	"queue.h"
+	"datetime.h"
+	"performance.h"
+
+1488098943 /home/starlove/code/NBPyLinux/base/allocator.h
+	"debug.h"
+	"memory.h"
+	<stdio.h>
+	<string.h>
+	<assert.h>
+
+1487437242 /home/starlove/code/NBPyLinux/base/debug.h
+	"output.h"
+	<stdio.h>
+	<stdarg.h>
+	<time.h>
+	<string>
+	<execinfo.h>
+	<stdio.h>
+	<stdlib.h>
+
+1487437242 /home/starlove/code/NBPyLinux/base/output.h
+	"base.h"
+	"singleton.h"
+	<stdio.h>
+
+1487437242 /home/starlove/code/NBPyLinux/base/memory.h
+	"base.h"
+	<string>
+	<iostream>
+	<sstream>
+
+1487513071 /home/starlove/code/NBPyLinux/base/queue.h
+	"base.h"
+	<queue>
+
+1487437242 /home/starlove/code/NBPyLinux/base/datetime.h
+	"base.h"
+
+1489995631 /home/starlove/code/NBPyLinux/base/performance.h
+	"base.h"
+	"singleton.h"
+	"imcodepackager.h"
+
+1488991111 /home/starlove/code/NBPyLinux/base/imcodepackager.h
+	"imcode.h"
+	"debug.h"
+	<assert.h>
+
+1488987313 /home/starlove/code/NBPyLinux/base/imcode.h
+	"buffer.h"
+	<string.h>
+	<typeinfo>
+
+1488097613 /home/starlove/code/NBPyLinux/base/buffer.h
+	"base.h"
+
+1490685595 /home/starlove/code/NBPyLinux/loginsvr/routepeer.h
+	<peer.h>
+	<singleton.h>
+
+1491828339 /home/starlove/code/NBPyLinux/loginsvr/setting.h
+	<singleton.h>
+	<performance.h>
+
+1490685595 /home/starlove/code/NBPyLinux/loginsvr/s2stunnel.h
+	<datatunnel.h>
+	<map>
+
+1490954744 /home/starlove/code/NBPyLinux/base/datatunnel.h
+	"network.h"
+	<sys/un.h>
+
+1490948436 /home/starlove/code/NBPyLinux/base/protocol.h
+	"base.h"
+
+1490692114 source:/home/starlove/code/NBPyLinux/loginsvr/clientservice.cpp
+	<stacklessengine.h>
+	"clientservice.h"
+	"clientpeer.h"
+
+1490371494 /home/starlove/code/NBPyLinux/base/stacklessengine.h
+	"macro_py.h"
+	"network.h"
+	"datatunnel.h"
+	"peer.h"
+	"performance.h"
+	<stackless_api.h>
+	<pyport.h>
+	<list>
+
+1487592877 /home/starlove/code/NBPyLinux/base/macro_py.h
+	"codec_py.h"
+	"output.h"
+	"network.h"
+
+1487592067 /home/starlove/code/NBPyLinux/base/codec_py.h
+	<Python.h>
+	"codec.h"
+	"singleton.h"
+
+1487437242 /home/starlove/code/NBPyLinux/base/codec.h
+	"imcode.h"
+
+1490691710 /home/starlove/code/NBPyLinux/loginsvr/clientservice.h
+	<service.h>
+	<singleton.h>
+
+1487437242 /home/starlove/code/NBPyLinux/base/service.h
+	"peer.h"
+
+1491828099 source:/home/starlove/code/NBPyLinux/loginsvr/pyextend.cpp
+	"pyextend.h"
+	"clientpeer.h"
+	"s2stunnel.h"
+	"routepeer.h"
+	"setting.h"
+
+1490955329 /home/starlove/code/NBPyLinux/loginsvr/pyextend.h
+	<stacklessengine.h>
+
+1490685595 source:/home/starlove/code/NBPyLinux/loginsvr/routepeer.cpp
+	"routepeer.h"
+	<protocol.h>
+
+1490685595 source:/home/starlove/code/NBPyLinux/loginsvr/s2stunnel.cpp
+	<stacklessengine.h>
+	"s2stunnel.h"
+	"setting.h"
+	<protocol.h>
+	"routepeer.h"
+
+1495786789 source:/home/starlove/code/NBPyLinux/loginsvr/main.cpp
+	"pyextend.h"
+	"clientservice.h"
+	"routepeer.h"
+	"s2stunnel.h"
+	"setting.h"
+	<configfile.h>
+	<getopt.h>
+	<deamonutils.h>
+	<signalutils.h>
+	<stacklessengine.h>
+
+1487437242 /home/starlove/code/NBPyLinux/base/configfile.h
+	"imcodepackager.h"
+
+1487437242 /home/starlove/code/NBPyLinux/base/deamonutils.h
+	"base.h"
+
+1487437242 /home/starlove/code/NBPyLinux/base/signalutils.h
+	"base.h"
+	<signal.h>
+

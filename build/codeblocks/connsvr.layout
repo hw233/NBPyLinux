@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release(x86_64)" />
+	<File name="../../connsvr/clientpeer.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="1608" topLine="118" />
+	</File>
+	<File name="../../connsvr/clientpeer.h" open="1" top="0" tabpos="10">
+		<Cursor position="1483" topLine="11" />
+	</File>
+	<File name="../../connsvr/clientservice.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="1505" topLine="6" />
+	</File>
+	<File name="../../connsvr/clientservice.h" open="1" top="0" tabpos="11">
+		<Cursor position="1395" topLine="6" />
+	</File>
+	<File name="../../connsvr/gatetunnel.cpp" open="1" top="0" tabpos="9">
+		<Cursor position="2017" topLine="18" />
+	</File>
+	<File name="../../connsvr/gatetunnel.h" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="6" />
+	</File>
+	<File name="../../connsvr/main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="9550" topLine="283" />
+	</File>
+	<File name="../../connsvr/pyextend.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="2131" topLine="43" />
+	</File>
+	<File name="../../connsvr/pyextend.h" open="0" top="0" tabpos="15">
+		<Cursor position="1552" topLine="10" />
+	</File>
+	<File name="../../connsvr/routepeer.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="3516" topLine="122" />
+	</File>
+	<File name="../../connsvr/routepeer.h" open="1" top="0" tabpos="5">
+		<Cursor position="1495" topLine="18" />
+	</File>
+	<File name="../../connsvr/s2stunnel.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="6329" topLine="154" />
+	</File>
+	<File name="../../connsvr/s2stunnel.h" open="1" top="0" tabpos="7">
+		<Cursor position="1194" topLine="14" />
+	</File>
+	<File name="../../connsvr/setting.h" open="1" top="0" tabpos="12">
+		<Cursor position="2912" topLine="58" />
+	</File>
+</CodeBlocks_layout_file>

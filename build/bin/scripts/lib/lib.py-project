@@ -1,0 +1,49 @@
+{"name": 'lib', "guid": "{562B49CD-39D4-4DFD-A212-4B25477DD367}","pythonver": '2.5', "type": "Library", "start": r"__init__.py", "parameters": '',  "paths":[
+], "files":
+{
+r"base": 
+{
+r"BaseLogicServer.py": r"BaseLogicServer.py",
+r"__init__.py": r"__init__.py",
+r"BaseS2SCaller.py": r"BaseS2SCaller.py",
+r"BaseLogicSlave.py": r"BaseLogicSlave.py",
+}
+
+,
+r"Config.py": r"Config.py",
+r"DBHelper.py": r"DBHelper.py",
+r"ParallelObject.py": r"ParallelObject.py",
+r"Singleton.py": r"Singleton.py",
+r"MetaInfo.py": r"MetaInfo.py",
+r"RoleProperty.py": r"RoleProperty.py",
+r"RoleInfo.py": r"RoleInfo.py",
+r"RBTree.py": r"RBTree.py",
+r"VIP.py": r"VIP.py",
+r"Filter.py": r"Filter.py",
+r"_mysql_exceptions.py": r"_mysql_exceptions.py",
+r"DBBase.py": r"DBBase.py",
+r"SessionID.py": r"SessionID.py",
+r"DBBaseEx.py": r"DBBaseEx.py",
+r"GlobalAccess.py": r"GlobalAccess.py",
+r"Object.py": r"Object.py",
+r"CostLogger.py": r"CostLogger.py",
+r"PerformanceObject.py": r"PerformanceObject.py",
+r"stacklesssocket.py": r"stacklesssocket.py",
+r"SlaveBase.py": r"SlaveBase.py",
+r"Processor.py": r"Processor.py",
+r"User.py": r"User.py",
+r"CSVParser.py": r"CSVParser.py",
+r"__init__.py": r"__init__.py",
+r"ItemProperty.py": r"ItemProperty.py",
+r"protocol": 
+{
+r"debug.py": r"debug.py",
+r"__init__.py": r"__init__.py",
+r"CommonProtocol.py": r"CommonProtocol.py",
+r"GeneralPack.py": r"GeneralPack.py",
+}
+
+,
+}
+
+}

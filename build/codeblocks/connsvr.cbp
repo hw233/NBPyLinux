@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="connsvr" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug(x86_64)">
+				<Option output="../bin/connsvr_d" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="../bin" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option projectLinkerOptionsRelation="2" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add option="-lbase_d" />
+				</Linker>
+			</Target>
+			<Target title="Release(x86_64)">
+				<Option output="../bin/connsvr" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option projectLinkerOptionsRelation="2" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add option="-lbase" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add directory="../../base" />
+		</Compiler>
+		<Linker>
+			<Add option="-lpthread" />
+			<Add option="-lstlport" />
+			<Add option="-lz" />
+			<Add option="-lpython2.6" />
+			<Add option="-rdynamic" />
+			<Add directory="../libs" />
+		</Linker>
+		<Unit filename="../../connsvr/clientpeer.cpp" />
+		<Unit filename="../../connsvr/clientpeer.h" />
+		<Unit filename="../../connsvr/clientservice.cpp" />
+		<Unit filename="../../connsvr/clientservice.h" />
+		<Unit filename="../../connsvr/gatetunnel.cpp" />
+		<Unit filename="../../connsvr/gatetunnel.h" />
+		<Unit filename="../../connsvr/main.cpp" />
+		<Unit filename="../../connsvr/pyextend.cpp" />
+		<Unit filename="../../connsvr/pyextend.h" />
+		<Unit filename="../../connsvr/routepeer.cpp" />
+		<Unit filename="../../connsvr/routepeer.h" />
+		<Unit filename="../../connsvr/s2stunnel.cpp" />
+		<Unit filename="../../connsvr/s2stunnel.h" />
+		<Unit filename="../../connsvr/setting.h" />
+		<Extensions>
+			<envvars />
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

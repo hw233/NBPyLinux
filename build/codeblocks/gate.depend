@@ -1,0 +1,279 @@
+# depslib dependency file v1.0
+1403616053 source:/home/starlove/s-lab/base/gate/main.cpp
+	"service_client.h"
+	<tunnel.h>
+	<network.h>
+	<deamon.h>
+	<blsignal.h>
+	<pid.h>
+	<getopt.h>
+
+1403615392 /home/starlove/s-lab/base/gate/service_client.h
+	"peer_client.h"
+	<service.h>
+	<singleton.h>
+	<timer.h>
+
+1403615098 /home/starlove/s-lab/base/gate/peer_client.h
+	<codec_json.h>
+	<peer.h>
+	<allocator_fixed.h>
+	<datetime.h>
+
+1403507787 /home/starlove/s-lab/base/include/codec_json.h
+	"codec.h"
+	"data.h"
+	<iostream>
+	<stdexcept>
+	<fstream>
+
+1403180866 /home/starlove/s-lab/base/include/codec.h
+	"config.h"
+	"buffer.h"
+	<string.h>
+	<typeinfo>
+
+1403611380 /home/starlove/s-lab/base/include/config.h
+	<map>
+	<vector>
+	<string>
+	<unistd.h>
+	<unordered_map>
+	<sys/socket.h>
+	<sys/epoll.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1403525064 /home/starlove/s-lab/base/include/buffer.h
+	"debug.h"
+	"pool.h"
+
+1403525312 /home/starlove/s-lab/base/include/debug.h
+	"output.h"
+	<stdio.h>
+	<stdarg.h>
+	<time.h>
+	<string>
+	<execinfo.h>
+	<stdio.h>
+	<stdlib.h>
+
+1403001855 /home/starlove/s-lab/base/include/output.h
+	"config.h"
+	"singleton.h"
+	<stdio.h>
+
+1402997448 /home/starlove/s-lab/base/include/singleton.h
+	"config.h"
+	<memory>
+
+1403077257 /home/starlove/s-lab/base/include/pool.h
+	"config.h"
+	"singleton.h"
+
+1403181030 /home/starlove/s-lab/base/include/data.h
+	"codec.h"
+
+1403590134 /home/starlove/s-lab/base/include/peer.h
+	"network.h"
+	"machine.h"
+
+1403590134 /home/starlove/s-lab/base/include/network.h
+	"event.h"
+	"buffer.h"
+	"data.h"
+	"codec_c.h"
+	"codec_json.h"
+	"singleton.h"
+
+1403507787 /home/starlove/s-lab/base/include/event.h
+	"config.h"
+	"allocator_fixed.h"
+	"queue_share.h"
+	"singleton.h"
+
+1403507787 /home/starlove/s-lab/base/include/allocator_fixed.h
+	"debug.h"
+	<stdio.h>
+	<string.h>
+
+1403182779 /home/starlove/s-lab/base/include/queue_share.h
+	<queue>
+
+1403181463 /home/starlove/s-lab/base/include/codec_c.h
+	"codec.h"
+
+1403184179 /home/starlove/s-lab/base/include/machine.h
+	"codec.h"
+	"network.h"
+
+1403002381 /home/starlove/s-lab/base/include/datetime.h
+	"config.h"
+
+1403348201 /home/starlove/s-lab/base/include/service.h
+	"network.h"
+	"peer.h"
+
+1403002456 /home/starlove/s-lab/base/include/timer.h
+	"config.h"
+	"datetime.h"
+	<string.h>
+
+1403507787 /home/starlove/s-lab/base/include/tunnel.h
+	"codec_c.h"
+	"peer_ds.h"
+	"singleton.h"
+
+1403590134 /home/starlove/s-lab/base/include/peer_ds.h
+	"network.h"
+	"machine.h"
+
+1403002625 /home/starlove/s-lab/base/include/deamon.h
+	"singleton.h"
+
+1403073113 /home/starlove/s-lab/base/include/blsignal.h
+	"config.h"
+	<signal.h>
+
+1402997153 /home/starlove/s-lab/base/include/pid.h
+	"singleton.h"
+
+1403616129 source:/home/starlove/s-lab/base/gate/peer_client.cpp
+	"peer_client.h"
+	<tunnel.h>
+
+1403615686 source:/home/starlove/s-lab/base/gate/service_client.cpp
+	"service_client.h"
+
+1407919164 source:/home/starlove/code/base/gate/peer_client.cpp
+	"peer_client.h"
+	<tunnel.h>
+
+1407919164 /home/starlove/code/base/gate/peer_client.h
+	<codec_json.h>
+	<peer.h>
+	<allocator_fixed.h>
+	<datetime.h>
+
+1415106542 /home/starlove/code/base/include/codec_json.h
+	"codec.h"
+	"data.h"
+	<iostream>
+	<stdexcept>
+	<fstream>
+
+1444727628 /home/starlove/code/base/include/codec.h
+	"config.h"
+	"buffer.h"
+	<string.h>
+	<typeinfo>
+
+1453898585 /home/starlove/code/base/include/config.h
+	<map>
+	<vector>
+	<string>
+	<unistd.h>
+	<unordered_map>
+	<sys/socket.h>
+	<sys/epoll.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1453897778 /home/starlove/code/base/include/buffer.h
+	"debug.h"
+	"pool.h"
+
+1407919165 /home/starlove/code/base/include/debug.h
+	"output.h"
+	<stdio.h>
+	<stdarg.h>
+	<time.h>
+	<string>
+	<execinfo.h>
+	<stdio.h>
+	<stdlib.h>
+
+1407919165 /home/starlove/code/base/include/output.h
+	"config.h"
+	"singleton.h"
+	<stdio.h>
+
+1407919165 /home/starlove/code/base/include/singleton.h
+	"config.h"
+	<memory>
+
+1441697003 /home/starlove/code/base/include/pool.h
+	"config.h"
+	"singleton.h"
+
+1453885815 /home/starlove/code/base/include/data.h
+	"codec.h"
+
+1410351060 /home/starlove/code/base/include/peer.h
+	"network.h"
+	"machine.h"
+
+1448077794 /home/starlove/code/base/include/network.h
+	"event.h"
+	"buffer.h"
+	"data.h"
+	"codec_c.h"
+	"codec_json.h"
+	"codec_ws.h"
+	"singleton.h"
+
+1407919165 /home/starlove/code/base/include/event.h
+	"config.h"
+	"allocator_fixed.h"
+	"queue_share.h"
+	"singleton.h"
+
+1407919165 /home/starlove/code/base/include/allocator_fixed.h
+	"debug.h"
+	<stdio.h>
+	<string.h>
+
+1407919165 /home/starlove/code/base/include/queue_share.h
+	<queue>
+
+1407919165 /home/starlove/code/base/include/codec_c.h
+	"codec.h"
+
+1441961221 /home/starlove/code/base/include/codec_ws.h
+	"codec_json.h"
+
+1448076256 /home/starlove/code/base/include/machine.h
+	"codec.h"
+	"network.h"
+
+1407919165 /home/starlove/code/base/include/datetime.h
+	"config.h"
+
+1449477631 /home/starlove/code/base/include/tunnel.h
+	"codec_c.h"
+	"peer_ds.h"
+	"singleton.h"
+
+1415100703 /home/starlove/code/base/include/peer_ds.h
+	"network.h"
+	"machine.h"
+
+1407919164 source:/home/starlove/code/base/gate/service_client.cpp
+	"service_client.h"
+
+1407919164 /home/starlove/code/base/gate/service_client.h
+	"peer_client.h"
+	<service.h>
+	<singleton.h>
+	<timer.h>
+
+1448089313 /home/starlove/code/base/include/service.h
+	"network.h"
+	"peer.h"
+
+1453897990 /home/starlove/code/base/include/timer.h
+	"config.h"
+	"datetime.h"
+	"pool.h"
+	<string.h>
+

@@ -1,0 +1,757 @@
+# depslib dependency file v1.0
+1415107237 source:/home/starlove/code/base/src/buffer.cpp
+	"../include/buffer.h"
+	"../include/memory.h"
+
+1467190629 /home/starlove/code/base/include/buffer.h
+	"debug.h"
+	"pool.h"
+	<assert.h>
+
+1407919165 /home/starlove/code/base/include/debug.h
+	"output.h"
+	<stdio.h>
+	<stdarg.h>
+	<time.h>
+	<string>
+	<execinfo.h>
+	<stdio.h>
+	<stdlib.h>
+
+1407919165 /home/starlove/code/base/include/output.h
+	"config.h"
+	"singleton.h"
+	<stdio.h>
+
+1453898585 /home/starlove/code/base/include/config.h
+	<map>
+	<vector>
+	<string>
+	<unistd.h>
+	<unordered_map>
+	<sys/socket.h>
+	<sys/epoll.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1407919165 /home/starlove/code/base/include/singleton.h
+	"config.h"
+	<memory>
+
+1441697003 /home/starlove/code/base/include/pool.h
+	"config.h"
+	"singleton.h"
+
+1407919165 /home/starlove/code/base/include/memory.h
+	"config.h"
+	<string>
+	<iostream>
+	<sstream>
+
+1407919166 source:/home/starlove/code/base/src/codec_c.cpp
+	"../include/codec_c.h"
+	"../include/memory.h"
+
+1407919165 /home/starlove/code/base/include/codec_c.h
+	"codec.h"
+
+1444727628 /home/starlove/code/base/include/codec.h
+	"config.h"
+	"buffer.h"
+	<string.h>
+	<typeinfo>
+
+1449231237 source:/home/starlove/code/base/src/codec_json.cpp
+	"../include/codec_json.h"
+	"../include/buffer.h"
+	"../include/memory.h"
+	"../include/debug.h"
+
+1415106542 /home/starlove/code/base/include/codec_json.h
+	"codec.h"
+	"data.h"
+	<iostream>
+	<stdexcept>
+	<fstream>
+
+1453885815 /home/starlove/code/base/include/data.h
+	"codec.h"
+
+1445278753 source:/home/starlove/code/base/src/codec_py.cpp
+	"../include/codec_py.h"
+	"../include/debug.h"
+	"../include/memory.h"
+	"../include/pymacro.h"
+
+1444727782 /home/starlove/code/base/include/codec_py.h
+	<Python.h>
+	"codec.h"
+	"data.h"
+	"pymacro.h"
+
+1453890329 /home/starlove/code/base/include/pymacro.h
+
+1407919166 source:/home/starlove/code/base/src/configparser.cpp
+	"../include/configparser.h"
+
+1407919165 /home/starlove/code/base/include/configparser.h
+	"codec_json.h"
+
+1407919166 source:/home/starlove/code/base/src/console.cpp
+	"../include/console.h"
+	"../include/debug.h"
+
+1407919165 /home/starlove/code/base/include/console.h
+	"config.h"
+	"memory.h"
+	"str.h"
+	<signal.h>
+	<map>
+	<vector>
+	<string>
+	<typeinfo>
+
+1441966889 /home/starlove/code/base/include/str.h
+	"singleton.h"
+	<stdio.h>
+	<sstream>
+
+1444726426 source:/home/starlove/code/base/src/data.cpp
+	"../include/data.h"
+	"../include/memory.h"
+	<assert.h>
+
+1407919166 source:/home/starlove/code/base/src/datetime.cpp
+	"../include/datetime.h"
+
+1407919165 /home/starlove/code/base/include/datetime.h
+	"config.h"
+
+1407919166 source:/home/starlove/code/base/src/deamon.cpp
+	"../include/deamon.h"
+	<sys/time.h>
+	<stdio.h>
+	<fcntl.h>
+	<errno.h>
+	<sys/stat.h>
+
+1407919165 /home/starlove/code/base/include/deamon.h
+	"singleton.h"
+
+1407919166 source:/home/starlove/code/base/src/output.cpp
+	"../include/output.h"
+
+1467185426 source:/home/starlove/code/base/src/peer_ds.cpp
+	<peer_ds.h>
+	<network.h>
+	<event.h>
+	<errno.h>
+	<memory.h>
+
+1415100703 /home/starlove/code/base/include/peer_ds.h
+	"network.h"
+	"machine.h"
+
+1448077794 /home/starlove/code/base/include/network.h
+	"event.h"
+	"buffer.h"
+	"data.h"
+	"codec_c.h"
+	"codec_json.h"
+	"codec_ws.h"
+	"singleton.h"
+
+1407919165 /home/starlove/code/base/include/event.h
+	"config.h"
+	"allocator_fixed.h"
+	"queue_share.h"
+	"singleton.h"
+
+1407919165 /home/starlove/code/base/include/allocator_fixed.h
+	"debug.h"
+	<stdio.h>
+	<string.h>
+
+1407919165 /home/starlove/code/base/include/queue_share.h
+	<queue>
+
+1448076256 /home/starlove/code/base/include/machine.h
+	"codec.h"
+	"network.h"
+
+1407919166 source:/home/starlove/code/base/src/pid.cpp
+	"../include/pid.h"
+	<sys/time.h>
+	<stdio.h>
+	<fcntl.h>
+	<errno.h>
+	<sys/stat.h>
+
+1407919165 /home/starlove/code/base/include/pid.h
+	"singleton.h"
+
+1453886802 source:/home/starlove/code/base/src/pool.cpp
+	"../include/pool.h"
+	"../include/bits.h"
+	"../include/debug.h"
+	"../include/datetime.h"
+	<iostream>
+	<execinfo.h>
+	<stdio.h>
+	<stdlib.h>
+	<../include/buffer.h>
+
+1407919165 /home/starlove/code/base/include/bits.h
+	"config.h"
+
+1453898031 source:/home/starlove/code/base/src/pymachine.cpp
+	"../include/pymachine.h"
+	"../include/pymacro.h"
+	"../include/service.h"
+	<stdio.h>
+	<stdarg.h>
+
+1453898001 /home/starlove/code/base/include/pymachine.h
+	<Python.h>
+	<stackless_api.h>
+	"config.h"
+	"timer.h"
+	"machine.h"
+	"codec_py.h"
+	"peer.h"
+	<pyport.h>
+	<list>
+
+1453897990 /home/starlove/code/base/include/timer.h
+	"config.h"
+	"datetime.h"
+	"pool.h"
+	<string.h>
+
+1410351060 /home/starlove/code/base/include/peer.h
+	"network.h"
+	"machine.h"
+
+1448089313 /home/starlove/code/base/include/service.h
+	"network.h"
+	"peer.h"
+
+1407919166 source:/home/starlove/code/base/src/servers.cpp
+	"../include/servers.h"
+
+1407919165 /home/starlove/code/base/include/servers.h
+	"config.h"
+	"protocol.h"
+	"singleton.h"
+	"peer.h"
+
+1407919165 /home/starlove/code/base/include/protocol.h
+
+1449284379 source:/home/starlove/code/base/src/service.cpp
+	"../include/service.h"
+	<sys/un.h>
+	<sys/stat.h>
+	<errno.h>
+
+1407919166 source:/home/starlove/code/base/src/signal.cpp
+	"../include/blsignal.h"
+	<signal.h>
+	<sys/time.h>
+	<stdio.h>
+	<fcntl.h>
+	<errno.h>
+	<sys/stat.h>
+
+1407919165 /home/starlove/code/base/include/blsignal.h
+	"config.h"
+	<signal.h>
+
+1407919166 source:/home/starlove/code/base/src/string.cpp
+	"../include/str.h"
+
+1453898051 source:/home/starlove/code/base/src/timer.cpp
+	"../include/timer.h"
+
+1449478305 source:/home/starlove/code/base/src/tunnel.cpp
+	<tunnel.h>
+	<network.h>
+	<errno.h>
+	<algorithm>
+
+1449477631 /home/starlove/code/base/include/tunnel.h
+	"codec_c.h"
+	"peer_ds.h"
+	"singleton.h"
+
+1409053127 source:/home/starlove/code/base/src/event.cpp
+	"../include/event.h"
+	"../include/timer.h"
+
+1449287054 source:/home/starlove/code/base/src/network.cpp
+	"../include/codec_py.h"
+	"../include/network.h"
+	"../include/peer.h"
+	<zlib.h>
+	<errno.h>
+	<fcntl.h>
+	<netinet/tcp.h>
+	<sys/un.h>
+
+1467114886 source:/home/starlove/code/base/src/peer.cpp
+	"../include/peer.h"
+	"../include/str.h"
+	<sys/un.h>
+	<sys/stat.h>
+	<sys/epoll.h>
+	<errno.h>
+	<stdio.h>
+
+1448092018 source:/home/starlove/code/base/src/httputils.cpp
+	"../include/httputils.h"
+	"../include/str.h"
+
+1448091814 /home/starlove/code/base/include/httputils.h
+	"network.h"
+	<map>
+
+1449459697 source:/home/starlove/code/base/src/peer_http.cpp
+	"../include/peer_http.h"
+	"../include/str.h"
+	<sys/un.h>
+	<sys/stat.h>
+	<sys/epoll.h>
+	<errno.h>
+	<stdio.h>
+
+1448092514 /home/starlove/code/base/include/peer_http.h
+	"network.h"
+	"machine.h"
+	"httputils.h"
+
+1441623598 source:/home/starlove/code/base/src/sha1.cpp
+	<string.h>
+	"../include/sha1.h"
+
+1441623631 /home/starlove/code/base/include/sha1.h
+	"config.h"
+	<sys/types.h>
+
+1441627188 source:/home/starlove/code/base/src/base64.cpp
+	"../include/base64.h"
+	<iostream>
+
+1441627206 /home/starlove/code/base/include/base64.h
+	"config.h"
+	<string>
+
+1449049986 source:/home/starlove/code/base/src/peer_ws.cpp
+	"../include/peer_ws.h"
+	"../include/str.h"
+	"../include/memory.h"
+	"../include/wsutils.h"
+	<sys/un.h>
+	<sys/stat.h>
+	<sys/epoll.h>
+	<errno.h>
+	<stdio.h>
+
+1441708295 /home/starlove/code/base/include/peer_ws.h
+	"peer.h"
+	"codec_ws.h"
+
+1441961221 /home/starlove/code/base/include/codec_ws.h
+	"codec_json.h"
+
+1441965160 source:/home/starlove/code/base/src/codec_ws.cpp
+	"../include/codec_ws.h"
+	"../include/buffer.h"
+	"../include/memory.h"
+	"../include/debug.h"
+
+1441958115 /home/starlove/code/base/include/wsutils.h
+	"singleton.h"
+	"codec.h"
+
+1441959956 source:/home/starlove/code/base/src/wsutils.cpp
+	<wsutils.h>
+
+1487936692 source:/home/starlove/code/NBPyLinux/base/base.cpp
+	"base.h"
+	"datetime.h"
+
+1499702044 /home/starlove/code/NBPyLinux/base/base.h
+	<map>
+	<vector>
+	<string>
+	<unistd.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<fcntl.h>
+	<unistd.h>
+	<stdio.h>
+	<errno.h>
+	<string.h>
+	<stdlib.h>
+	<sys/epoll.h>
+	<stddef.h>
+	<sys/event.h>
+	<unordered_map>
+
+1487437242 /home/starlove/code/NBPyLinux/base/datetime.h
+	"base.h"
+
+1488099882 source:/home/starlove/code/NBPyLinux/base/buffer.cpp
+	"buffer.h"
+	"pool.h"
+	"debug.h"
+
+1488097614 /home/starlove/code/NBPyLinux/base/buffer.h
+	"base.h"
+
+1487845718 /home/starlove/code/NBPyLinux/base/pool.h
+	"base.h"
+	"singleton.h"
+	"performance.h"
+
+1487437242 /home/starlove/code/NBPyLinux/base/singleton.h
+	"base.h"
+	<memory>
+
+1489995632 /home/starlove/code/NBPyLinux/base/performance.h
+	"base.h"
+	"singleton.h"
+	"imcodepackager.h"
+
+1487437242 /home/starlove/code/NBPyLinux/base/debug.h
+	"output.h"
+	<stdio.h>
+	<stdarg.h>
+	<time.h>
+	<string>
+	<execinfo.h>
+	<stdio.h>
+	<stdlib.h>
+
+1487437242 /home/starlove/code/NBPyLinux/base/output.h
+	"base.h"
+	"singleton.h"
+	<stdio.h>
+
+1487437242 source:/home/starlove/code/NBPyLinux/base/configfile.cpp
+	"configfile.h"
+	"codec_json.h"
+
+1487437242 /home/starlove/code/NBPyLinux/base/configfile.h
+	"imcodepackager.h"
+
+1488991112 /home/starlove/code/NBPyLinux/base/imcodepackager.h
+	"imcode.h"
+	"debug.h"
+	<assert.h>
+
+1488987314 /home/starlove/code/NBPyLinux/base/imcode.h
+	"buffer.h"
+	<string.h>
+	<typeinfo>
+
+1487437242 /home/starlove/code/NBPyLinux/base/codec_json.h
+	"codec.h"
+	"singleton.h"
+
+1487437242 /home/starlove/code/NBPyLinux/base/codec.h
+	"imcode.h"
+
+1487437242 source:/home/starlove/code/NBPyLinux/base/datetime.cpp
+	"datetime.h"
+	<sys/time.h>
+
+1487589548 source:/home/starlove/code/NBPyLinux/base/deamonutils.cpp
+	"deamonutils.h"
+	<sys/stat.h>
+
+1487437242 /home/starlove/code/NBPyLinux/base/deamonutils.h
+	"base.h"
+
+1488991066 source:/home/starlove/code/NBPyLinux/base/codec_py.cpp
+	"codec_py.h"
+	"imcodepackager.h"
+
+1487592068 /home/starlove/code/NBPyLinux/base/codec_py.h
+	<Python.h>
+	"codec.h"
+	"singleton.h"
+
+1487846026 source:/home/starlove/code/NBPyLinux/base/codec_json.cpp
+	"pool.h"
+	"codec_json.h"
+	"imcodepackager.h"
+	<rapidjson/reader.h>
+	<rapidjson/writer.h>
+	<iostream>
+
+1487437416 /home/starlove/code/NBPyLinux/thirdparty/include/rapidjson/reader.h
+	"allocators.h"
+	"stream.h"
+	"encodedstream.h"
+	"internal/meta.h"
+	"internal/stack.h"
+	"internal/strtod.h"
+	<limits>
+	<intrin.h>
+	<nmmintrin.h>
+	<emmintrin.h>
+	<stdexcept>
+	"rapidjson/error/error.h"
+	"rapidjson/reader.h"
+	"error/error.h"
+
+1487437416 /home/starlove/code/NBPyLinux/thirdparty/include/rapidjson/allocators.h
+	"rapidjson.h"
+
+1487437416 /home/starlove/code/NBPyLinux/thirdparty/include/rapidjson/rapidjson.h
+	<cstdlib>
+	<cstring>
+	"rapidjson/..."
+	<string>
+	"msinttypes/stdint.h"
+	"msinttypes/inttypes.h"
+	<stdint.h>
+	<inttypes.h>
+	<endian.h>
+	"rapidjson/..."
+	<cassert>
+
+1487437414 /home/starlove/code/NBPyLinux/thirdparty/include/rapidjson/msinttypes/stdint.h
+	<stdint.h>
+	<limits.h>
+	<wchar.h>
+
+1487437414 /home/starlove/code/NBPyLinux/thirdparty/include/rapidjson/msinttypes/inttypes.h
+	"stdint.h"
+	<inttypes.h>
+
+1487437416 /home/starlove/code/NBPyLinux/thirdparty/include/rapidjson/stream.h
+	"rapidjson.h"
+	"encodings.h"
+
+1487437416 /home/starlove/code/NBPyLinux/thirdparty/include/rapidjson/encodings.h
+	"rapidjson.h"
+
+1487437416 /home/starlove/code/NBPyLinux/thirdparty/include/rapidjson/encodedstream.h
+	"stream.h"
+	"memorystream.h"
+
+1487437416 /home/starlove/code/NBPyLinux/thirdparty/include/rapidjson/memorystream.h
+	"stream.h"
+
+1487437414 /home/starlove/code/NBPyLinux/thirdparty/include/rapidjson/internal/meta.h
+	"../rapidjson.h"
+	<type_traits>
+
+1487437414 /home/starlove/code/NBPyLinux/thirdparty/include/rapidjson/internal/stack.h
+	"../allocators.h"
+	"swap.h"
+
+1487437414 /home/starlove/code/NBPyLinux/thirdparty/include/rapidjson/internal/swap.h
+	"../rapidjson.h"
+
+1487437414 /home/starlove/code/NBPyLinux/thirdparty/include/rapidjson/internal/strtod.h
+	"ieee754.h"
+	"biginteger.h"
+	"diyfp.h"
+	"pow10.h"
+
+1487437414 /home/starlove/code/NBPyLinux/thirdparty/include/rapidjson/internal/ieee754.h
+	"../rapidjson.h"
+
+1487437414 /home/starlove/code/NBPyLinux/thirdparty/include/rapidjson/internal/biginteger.h
+	"../rapidjson.h"
+	<intrin.h>
+
+1487437414 /home/starlove/code/NBPyLinux/thirdparty/include/rapidjson/internal/diyfp.h
+	"../rapidjson.h"
+	<intrin.h>
+
+1487437414 /home/starlove/code/NBPyLinux/thirdparty/include/rapidjson/internal/pow10.h
+	"../rapidjson.h"
+
+1487437416 /home/starlove/code/NBPyLinux/thirdparty/include/rapidjson/error/error.h
+	"../rapidjson.h"
+
+1487437416 /home/starlove/code/NBPyLinux/thirdparty/include/rapidjson/writer.h
+	"stream.h"
+	"internal/stack.h"
+	"internal/strfunc.h"
+	"internal/dtoa.h"
+	"internal/itoa.h"
+	"stringbuffer.h"
+	<new>
+	<intrin.h>
+	<nmmintrin.h>
+	<emmintrin.h>
+
+1487437414 /home/starlove/code/NBPyLinux/thirdparty/include/rapidjson/internal/strfunc.h
+	"../stream.h"
+
+1487437414 /home/starlove/code/NBPyLinux/thirdparty/include/rapidjson/internal/dtoa.h
+	"itoa.h"
+	"diyfp.h"
+	"ieee754.h"
+
+1487437414 /home/starlove/code/NBPyLinux/thirdparty/include/rapidjson/internal/itoa.h
+	"../rapidjson.h"
+
+1487437416 /home/starlove/code/NBPyLinux/thirdparty/include/rapidjson/stringbuffer.h
+	"stream.h"
+	"internal/stack.h"
+	<utility>
+	"internal/stack.h"
+
+1491832018 source:/home/starlove/code/NBPyLinux/base/datatunnel.cpp
+	"stacklessengine.h"
+	"datatunnel.h"
+	"datetime.h"
+
+1490371494 /home/starlove/code/NBPyLinux/base/stacklessengine.h
+	"macro_py.h"
+	"network.h"
+	"datatunnel.h"
+	"peer.h"
+	"performance.h"
+	<stackless_api.h>
+	<pyport.h>
+	<list>
+
+1489678154 /home/starlove/code/NBPyLinux/base/network.h
+	"singleton.h"
+	"event.h"
+	"buffer.h"
+	"imcodepackager.h"
+	<netdb.h>
+
+1490011836 /home/starlove/code/NBPyLinux/base/event.h
+	"singleton.h"
+	"allocator.h"
+	"queue.h"
+	"datetime.h"
+	"performance.h"
+
+1488098944 /home/starlove/code/NBPyLinux/base/allocator.h
+	"debug.h"
+	"memory.h"
+	<stdio.h>
+	<string.h>
+	<assert.h>
+
+1487437242 /home/starlove/code/NBPyLinux/base/memory.h
+	"base.h"
+	<string>
+	<iostream>
+	<sstream>
+
+1487513072 /home/starlove/code/NBPyLinux/base/queue.h
+	"base.h"
+	<queue>
+
+1487592878 /home/starlove/code/NBPyLinux/base/macro_py.h
+	"codec_py.h"
+	"output.h"
+	"network.h"
+
+1490954744 /home/starlove/code/NBPyLinux/base/datatunnel.h
+	"network.h"
+	<sys/un.h>
+
+1490009858 /home/starlove/code/NBPyLinux/base/peer.h
+	"network.h"
+
+1490181578 source:/home/starlove/code/NBPyLinux/base/event.cpp
+	"event.h"
+	"datetime.h"
+	"network.h"
+	"pool.h"
+
+1487437242 source:/home/starlove/code/NBPyLinux/base/fdtunnel.cpp
+	"fdtunnel.h"
+
+1487437242 /home/starlove/code/NBPyLinux/base/fdtunnel.h
+	"network.h"
+	<sys/un.h>
+
+1488990920 source:/home/starlove/code/NBPyLinux/base/imcode.cpp
+	"imcode.h"
+	"memory.h"
+	"debug.h"
+
+1488991100 source:/home/starlove/code/NBPyLinux/base/imcodepackager.cpp
+	"imcodepackager.h"
+	"memory.h"
+	"pool.h"
+
+1487437242 source:/home/starlove/code/NBPyLinux/base/output.cpp
+	"output.h"
+
+1490009802 source:/home/starlove/code/NBPyLinux/base/peer.cpp
+	"stacklessengine.h"
+	"peer.h"
+	"codec_json.h"
+	"pool.h"
+
+1489995680 source:/home/starlove/code/NBPyLinux/base/performance.cpp
+	"performance.h"
+	"datetime.h"
+	"codec_json.h"
+
+1490181462 source:/home/starlove/code/NBPyLinux/base/pool.cpp
+	"pool.h"
+	"bits.h"
+	"datetime.h"
+	"debug.h"
+	<iostream>
+	<execinfo.h>
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1487437242 /home/starlove/code/NBPyLinux/base/bits.h
+	"base.h"
+
+1490015294 source:/home/starlove/code/NBPyLinux/base/service.cpp
+	"stacklessengine.h"
+	"service.h"
+	<sys/un.h>
+
+1487437242 /home/starlove/code/NBPyLinux/base/service.h
+	"peer.h"
+
+1490109872 source:/home/starlove/code/NBPyLinux/base/network.cpp
+	"network.h"
+	"codec_json.h"
+	"datetime.h"
+	"pool.h"
+	<netinet/tcp.h>
+	<netinet/in.h>
+	<sys/un.h>
+
+1487437242 source:/home/starlove/code/NBPyLinux/base/signalutils.cpp
+	"signalutils.h"
+
+1487437242 /home/starlove/code/NBPyLinux/base/signalutils.h
+	"base.h"
+	<signal.h>
+
+1491830908 source:/home/starlove/code/NBPyLinux/base/stacklessengine.cpp
+	"stacklessengine.h"
+	"protocol.h"
+
+1490948436 /home/starlove/code/NBPyLinux/base/protocol.h
+	"base.h"
+
+1487437242 source:/home/starlove/code/NBPyLinux/base/stringutils.cpp
+	"stringutils.h"
+
+1487437242 /home/starlove/code/NBPyLinux/base/stringutils.h
+	"singleton.h"
+	<sstream>
+

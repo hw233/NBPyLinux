@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="base" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug(x86_64)">
+				<Option output="../libs/libbase_d" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="" />
+				<Option object_output="obj/Debug/" />
+				<Option type="2" />
+				<Option compiler="gcc" />
+				<Option createDefFile="1" />
+				<Compiler>
+					<Add option="-Wall" />
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release(x86_64)">
+				<Option output="../libs/libbase" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="" />
+				<Option object_output="obj/Release/" />
+				<Option type="2" />
+				<Option compiler="gcc" />
+				<Option createDefFile="1" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-Wall" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wl,--hash-style=sysv" />
+			<Add directory="../../thirdparty/include" />
+		</Compiler>
+		<Unit filename="../../base/allocator.h" />
+		<Unit filename="../../base/base.cpp" />
+		<Unit filename="../../base/base.h" />
+		<Unit filename="../../base/bits.h" />
+		<Unit filename="../../base/buffer.cpp" />
+		<Unit filename="../../base/buffer.h" />
+		<Unit filename="../../base/codec.h" />
+		<Unit filename="../../base/codec_json.cpp" />
+		<Unit filename="../../base/codec_json.h" />
+		<Unit filename="../../base/codec_py.cpp" />
+		<Unit filename="../../base/codec_py.h" />
+		<Unit filename="../../base/configfile.cpp" />
+		<Unit filename="../../base/configfile.h" />
+		<Unit filename="../../base/datatunnel.cpp" />
+		<Unit filename="../../base/datatunnel.h" />
+		<Unit filename="../../base/datetime.cpp" />
+		<Unit filename="../../base/datetime.h" />
+		<Unit filename="../../base/deamonutils.cpp" />
+		<Unit filename="../../base/deamonutils.h" />
+		<Unit filename="../../base/debug.h" />
+		<Unit filename="../../base/event.cpp" />
+		<Unit filename="../../base/event.h" />
+		<Unit filename="../../base/fdtunnel.cpp" />
+		<Unit filename="../../base/fdtunnel.h" />
+		<Unit filename="../../base/imcode.cpp" />
+		<Unit filename="../../base/imcode.h" />
+		<Unit filename="../../base/imcodepackager.cpp" />
+		<Unit filename="../../base/imcodepackager.h" />
+		<Unit filename="../../base/macro_py.h" />
+		<Unit filename="../../base/memory.h" />
+		<Unit filename="../../base/network.cpp" />
+		<Unit filename="../../base/network.h" />
+		<Unit filename="../../base/output.cpp" />
+		<Unit filename="../../base/output.h" />
+		<Unit filename="../../base/peer.cpp" />
+		<Unit filename="../../base/peer.h" />
+		<Unit filename="../../base/performance.cpp" />
+		<Unit filename="../../base/performance.h" />
+		<Unit filename="../../base/pool.cpp" />
+		<Unit filename="../../base/pool.h" />
+		<Unit filename="../../base/protocol.h" />
+		<Unit filename="../../base/queue.h" />
+		<Unit filename="../../base/service.cpp" />
+		<Unit filename="../../base/service.h" />
+		<Unit filename="../../base/signalutils.cpp" />
+		<Unit filename="../../base/signalutils.h" />
+		<Unit filename="../../base/singleton.h" />
+		<Unit filename="../../base/stacklessengine.cpp" />
+		<Unit filename="../../base/stacklessengine.h" />
+		<Unit filename="../../base/stringutils.cpp" />
+		<Unit filename="../../base/stringutils.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<envvars />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

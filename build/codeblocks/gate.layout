@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="../../gate/clientpeer.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="1243" topLine="22" />
+	</File>
+	<File name="../../gate/gatetunnel.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="1367" topLine="1" />
+	</File>
+	<File name="../../gate/gatetunnel.h" open="0" top="0" tabpos="2">
+		<Cursor position="1410" topLine="5" />
+	</File>
+	<File name="../../gate/main.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="9368" topLine="283" />
+	</File>
+</CodeBlocks_layout_file>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release(x86_64)" />
+	<File name="../../router/main.cpp" open="0" top="0" tabpos="10">
+		<Cursor position="6576" topLine="201" />
+	</File>
+	<File name="../../router/slavepeer.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="3172" topLine="94" />
+	</File>
+	<File name="../../router/slavepeer.h" open="0" top="0" tabpos="26">
+		<Cursor position="1190" topLine="18" />
+	</File>
+	<File name="../../router/slaveservice.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="3059" topLine="66" />
+	</File>
+	<File name="../../router/slaveservice.h" open="0" top="0" tabpos="0">
+		<Cursor position="1220" topLine="18" />
+	</File>
+</CodeBlocks_layout_file>

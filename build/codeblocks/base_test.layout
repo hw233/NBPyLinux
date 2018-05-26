@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug(x86_64)" />
+	<File name="../../src_test/main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="5634" topLine="172" />
+	</File>
+	<File name="../../src_test/testpeer.h" open="0" top="0" tabpos="3">
+		<Cursor position="2013" topLine="37" />
+	</File>
+</CodeBlocks_layout_file>

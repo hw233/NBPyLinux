@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release(x86_64)" />
+	<File name="../../logicsvr/main.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="7750" topLine="241" />
+	</File>
+	<File name="../../logicsvr/pyextend.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="2044" topLine="41" />
+	</File>
+	<File name="../../logicsvr/pyextend.h" open="0" top="0" tabpos="0">
+		<Cursor position="1283" topLine="9" />
+	</File>
+	<File name="../../logicsvr/routepeer.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="3240" topLine="12" />
+	</File>
+	<File name="../../logicsvr/routepeer.h" open="1" top="0" tabpos="3">
+		<Cursor position="1195" topLine="13" />
+	</File>
+	<File name="../../logicsvr/s2stunnel.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="2727" topLine="19" />
+	</File>
+	<File name="../../logicsvr/s2stunnel.h" open="1" top="0" tabpos="4">
+		<Cursor position="1719" topLine="15" />
+	</File>
+	<File name="../../logicsvr/setting.h" open="1" top="0" tabpos="6">
+		<Cursor position="2922" topLine="68" />
+	</File>
+</CodeBlocks_layout_file>
