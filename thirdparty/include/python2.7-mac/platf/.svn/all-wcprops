@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/platf
+END
+switch_ps3_SNTools.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/platf/switch_ps3_SNTools.h
+END
+switch_x86_unix.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/platf/switch_x86_unix.h
+END
+switch_sparc_sun_gcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/platf/switch_sparc_sun_gcc.h
+END
+switch_x64_msvc.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/platf/switch_x64_msvc.h
+END
+switch_arm_thumb_gcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/platf/switch_arm_thumb_gcc.h
+END
+switch_mips_unix.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/platf/switch_mips_unix.h
+END
+switch_ppc_macosx.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/platf/switch_ppc_macosx.h
+END
+switch_x86_msvc.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/platf/switch_x86_msvc.h
+END
+switch_amd64_unix.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/platf/switch_amd64_unix.h
+END
+switch_arm32_gcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/platf/switch_arm32_gcc.h
+END
+slp_platformselect.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/platf/slp_platformselect.h
+END
+switch_s390_unix.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/platf/switch_s390_unix.h
+END
+switch_ppc_unix.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/platf/switch_ppc_unix.h
+END

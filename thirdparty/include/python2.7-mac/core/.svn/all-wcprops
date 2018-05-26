@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/core
+END
+stackless_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/core/stackless_impl.h
+END
+stackless_methods.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/core/stackless_methods.h
+END
+slp_exttype.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/core/slp_exttype.h
+END
+stackless_tstate.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/core/stackless_tstate.h
+END
+stackless_structs.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/core/stackless_structs.h
+END
+cframeobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/core/cframeobject.h
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/starlove/!svn/ver/634/NBPy/thirdparty/include/rapidjson/internal
+END
+biginteger.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/starlove/!svn/ver/634/NBPy/thirdparty/include/rapidjson/internal/biginteger.h
+END
+strtod.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/starlove/!svn/ver/634/NBPy/thirdparty/include/rapidjson/internal/strtod.h
+END
+strfunc.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/starlove/!svn/ver/634/NBPy/thirdparty/include/rapidjson/internal/strfunc.h
+END
+stack.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/starlove/!svn/ver/634/NBPy/thirdparty/include/rapidjson/internal/stack.h
+END
+meta.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/starlove/!svn/ver/634/NBPy/thirdparty/include/rapidjson/internal/meta.h
+END
+pow10.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/starlove/!svn/ver/634/NBPy/thirdparty/include/rapidjson/internal/pow10.h
+END
+dtoa.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/starlove/!svn/ver/634/NBPy/thirdparty/include/rapidjson/internal/dtoa.h
+END
+ieee754.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/starlove/!svn/ver/634/NBPy/thirdparty/include/rapidjson/internal/ieee754.h
+END
+regex.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/starlove/!svn/ver/634/NBPy/thirdparty/include/rapidjson/internal/regex.h
+END
+swap.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/starlove/!svn/ver/634/NBPy/thirdparty/include/rapidjson/internal/swap.h
+END
+diyfp.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/starlove/!svn/ver/634/NBPy/thirdparty/include/rapidjson/internal/diyfp.h
+END
+itoa.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/starlove/!svn/ver/634/NBPy/thirdparty/include/rapidjson/internal/itoa.h
+END

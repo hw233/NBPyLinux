@@ -1,0 +1,575 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac
+END
+grammar.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/grammar.h
+END
+dtoa.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/dtoa.h
+END
+ast.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/ast.h
+END
+warnings.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/warnings.h
+END
+pystrtod.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/pystrtod.h
+END
+pgen.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/pgen.h
+END
+pystate.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/pystate.h
+END
+floatobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/floatobject.h
+END
+pyctype.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/pyctype.h
+END
+complexobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/complexobject.h
+END
+memoryobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/memoryobject.h
+END
+bufferobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/bufferobject.h
+END
+listobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/listobject.h
+END
+bytes_methods.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/bytes_methods.h
+END
+py_curses.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/py_curses.h
+END
+unicodeobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/unicodeobject.h
+END
+pyconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/pyconfig.h
+END
+tupleobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/tupleobject.h
+END
+pymactoolbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/pymactoolbox.h
+END
+Python.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/Python.h
+END
+intobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/intobject.h
+END
+funcobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/funcobject.h
+END
+osdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/osdefs.h
+END
+pyerrors.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/pyerrors.h
+END
+node.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/node.h
+END
+descrobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/descrobject.h
+END
+marshal.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/marshal.h
+END
+eval.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/eval.h
+END
+patchlevel.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/patchlevel.h
+END
+compile.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/compile.h
+END
+pyexpat.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/pyexpat.h
+END
+ceval.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/ceval.h
+END
+bitset.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/bitset.h
+END
+datetime.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/datetime.h
+END
+stackless.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/stackless.h
+END
+metagrammar.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/metagrammar.h
+END
+stringobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/stringobject.h
+END
+timefuncs.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/timefuncs.h
+END
+pymacconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/pymacconfig.h
+END
+pydebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/pydebug.h
+END
+pymath.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/pymath.h
+END
+object.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/object.h
+END
+cellobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/cellobject.h
+END
+code.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/code.h
+END
+import.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/import.h
+END
+bytesobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/bytesobject.h
+END
+traceback.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/traceback.h
+END
+token.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/token.h
+END
+pystrcmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/pystrcmp.h
+END
+frameobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/frameobject.h
+END
+boolobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/boolobject.h
+END
+asdl.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/asdl.h
+END
+sliceobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/sliceobject.h
+END
+pymem.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/pymem.h
+END
+bytearrayobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/bytearrayobject.h
+END
+ucnhash.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/ucnhash.h
+END
+classobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/classobject.h
+END
+structseq.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/structseq.h
+END
+stackless_version.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/stackless_version.h
+END
+cStringIO.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/cStringIO.h
+END
+longintrepr.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/longintrepr.h
+END
+pycapsule.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/pycapsule.h
+END
+pythonrun.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/pythonrun.h
+END
+Python-ast.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/Python-ast.h
+END
+fileobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/fileobject.h
+END
+graminit.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/graminit.h
+END
+pygetopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/pygetopt.h
+END
+weakrefobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/weakrefobject.h
+END
+modsupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/modsupport.h
+END
+moduleobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/moduleobject.h
+END
+pyfpe.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/pyfpe.h
+END
+errcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/errcode.h
+END
+rangeobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/rangeobject.h
+END
+stackless_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/stackless_api.h
+END
+pgenheaders.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/pgenheaders.h
+END
+longobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/longobject.h
+END
+parsetok.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/parsetok.h
+END
+iterobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/iterobject.h
+END
+enumobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/enumobject.h
+END
+objimpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/objimpl.h
+END
+pyport.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/pyport.h
+END
+pyarena.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/pyarena.h
+END
+genobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/genobject.h
+END
+codecs.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/codecs.h
+END
+abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/abstract.h
+END
+methodobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/methodobject.h
+END
+opcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/opcode.h
+END
+cobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/cobject.h
+END
+intrcheck.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/intrcheck.h
+END
+dictobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/dictobject.h
+END
+structmember.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/structmember.h
+END
+pythread.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/pythread.h
+END
+symtable.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/symtable.h
+END
+setobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/setobject.h
+END
+sysmodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/starlove/!svn/ver/634/NBPy/thirdparty/include/python2.7-mac/sysmodule.h
+END

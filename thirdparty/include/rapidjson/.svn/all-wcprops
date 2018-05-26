@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/starlove/!svn/ver/634/NBPy/thirdparty/include/rapidjson
+END
+istreamwrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/starlove/!svn/ver/634/NBPy/thirdparty/include/rapidjson/istreamwrapper.h
+END
+filewritestream.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/starlove/!svn/ver/634/NBPy/thirdparty/include/rapidjson/filewritestream.h
+END
+encodings.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/starlove/!svn/ver/634/NBPy/thirdparty/include/rapidjson/encodings.h
+END
+ostreamwrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/starlove/!svn/ver/634/NBPy/thirdparty/include/rapidjson/ostreamwrapper.h
+END
+writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/starlove/!svn/ver/634/NBPy/thirdparty/include/rapidjson/writer.h
+END
+encodedstream.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/starlove/!svn/ver/634/NBPy/thirdparty/include/rapidjson/encodedstream.h
+END
+document.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/starlove/!svn/ver/634/NBPy/thirdparty/include/rapidjson/document.h
+END
+fwd.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/starlove/!svn/ver/634/NBPy/thirdparty/include/rapidjson/fwd.h
+END
+pointer.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/starlove/!svn/ver/634/NBPy/thirdparty/include/rapidjson/pointer.h
+END
+memorystream.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/starlove/!svn/ver/634/NBPy/thirdparty/include/rapidjson/memorystream.h
+END
+prettywriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/starlove/!svn/ver/634/NBPy/thirdparty/include/rapidjson/prettywriter.h
+END
+filereadstream.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/starlove/!svn/ver/634/NBPy/thirdparty/include/rapidjson/filereadstream.h
+END
+rapidjson.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/starlove/!svn/ver/634/NBPy/thirdparty/include/rapidjson/rapidjson.h
+END
+stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/starlove/!svn/ver/634/NBPy/thirdparty/include/rapidjson/stream.h
+END
+schema.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/starlove/!svn/ver/634/NBPy/thirdparty/include/rapidjson/schema.h
+END
+stringbuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/starlove/!svn/ver/634/NBPy/thirdparty/include/rapidjson/stringbuffer.h
+END
+memorybuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/starlove/!svn/ver/634/NBPy/thirdparty/include/rapidjson/memorybuffer.h
+END
+reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/starlove/!svn/ver/634/NBPy/thirdparty/include/rapidjson/reader.h
+END
+allocators.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/starlove/!svn/ver/634/NBPy/thirdparty/include/rapidjson/allocators.h
+END
